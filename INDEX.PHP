@@ -1,5 +1,5 @@
 <?php
 
 echo "KARMVIR \n";
-echo "deployinh PHP webapp on Azure " ;
+echo "Deploying a  PHP webapp on Azure " ;
 ?>
